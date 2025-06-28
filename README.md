@@ -1,3 +1,5 @@
+ <img alt="Banner Image" src="./assets/github-profile-banner.png" />
+ 
 # 💫 About Me:
 💻 Full-stack web developer with a strong focus on backend using Python, Django, and SQL databases. Experienced in building secure RESTful APIs, dynamic UIs with React & JavaScript, and knowledgeable in C++ and DSA fundamentals.<br><br>🚀 Currently expanding my backend skills to build more scalable, secure, and production-ready applications.
 
