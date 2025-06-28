@@ -11,13 +11,12 @@
 
 
 
-## 💻 Tech Stack
+## 💻 Tech Stack:
 
 <table>
   <tr>
     <th>Languages</th>
     <th>Frontend</th>
-    <th>Backend</th>
   </tr>
   <tr>
     <td>
@@ -32,28 +31,34 @@
       <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
       <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
       <img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white" />
+      <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
       <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
       <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
       <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" />
     </td>
+  </tr>
+  <tr>
+    <th>Backend</th>
+    <th>Databases</th>
+  </tr>
+  <tr>
     <td>
       <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
       <img src="https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" />
       <img src="https://img.shields.io/badge/JWT_Auth-%23323330.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
     </td>
-  </tr>
-  <tr>
-    <th>Databases</th>
-    <th>Deployment</th>
-    <th>Tools & Servers</th>
-  </tr>
-  <tr>
     <td>
       <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
       <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
       <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
       <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
     </td>
+  </tr>
+  <tr>
+    <th>Deployment</th>
+    <th>Tools & Servers</th>
+  </tr>
+  <tr>
     <td>
       <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
       <img src="https://img.shields.io/badge/Render-46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" />
@@ -66,7 +71,6 @@
       <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" />
       <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
       <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
-      <img src="https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
       <img src="https://img.shields.io/badge/Apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" />
       <img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
     </td>
@@ -74,7 +78,8 @@
 </table>
 
 
-# 📊 GitHub Stats:
+
+## 📊 GitHub Stats:
 
 <table>
   <tr>
@@ -93,6 +98,6 @@
 </table>
 
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=rjmahfuztech&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 [![](https://visitcount.itsvg.in/api?id=rjmahfuztech&icon=1&color=6)](https://visitcount.itsvg.in)
